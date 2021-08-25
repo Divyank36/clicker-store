@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://divyank36.github.io/clicker-store/](https://divyank36.github.io/clicker-store/)
+> Open this page at https://arcade.makecode.com/71401-15166-46950-39393 to play
 
 ## Use as Extension
 
